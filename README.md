@@ -13,7 +13,6 @@ The notes are organized by each class:
 - Week 1 notes
 - Week 2 notes
 
-
 # Week 0 Notes
 
 ## Why Computers Use Binary
@@ -132,6 +131,57 @@ It significantly reduces the number of comparisons compared to a linear search, 
 
 ## 5. Practical Application:
 Companies like Google and Microsoft use variations of binary search algorithms to manage and search through vast amounts of data quickly and efficiently.
+
+# Week 1 & Week 2 ( C & Arrays)
+
+Interfaces
+## CLI (Command Line Interface):
+A text-based interface where users type commands to interact with the system.
+## GUI (Graphical User Interface):
+A visual interface that uses icons and graphics for user interaction.
+
+## From Source Code to Machine Code
+Source Code: The human-readable code (e.g., C code).
+Compilation: The process of converting source code to machine code, understandable by the server as binary (0s and 1s).
+Execution: Use ./program to run a compiled C program.
+## CLI Commands
+
+### Linux CLI Commands
+
+Basic Navigation:
+- ls: List directory contents
+- pwd: Print working directory
+- cd: Change directory
+- cd ..: Move up one level
+File Management:
+- mkdir: Create a new directory
+- rmdir: Remove an empty directory
+- rm: Remove a file1
+- cp: Copy a file
+- mv: Move or rename a file
+System Management:
+- clear: Clear the terminal screen
+- exit: Exit the CLI
+
+Links: https://www.hpc.iastate.edu/guides/introduction-to-hpc-clusters/list-of-cli-commands
+
+
+## Compilation Process in C
+
+- Preprocessing: Processes directives (e.g., #include and #define) before actual compilation.
+- Compiling: Converts code to machine code or assembly.
+- Assembling: Transforms assembly code into machine-level instructions.
+  
+### Data Types and Memory Allocation
+- Bool: 1 byte
+- Int: 4 bytes
+- Long: 8 bytes
+- Float: 4 bytes
+- Double: 8 bytes
+- Char: 1 byte
+- String: Variable size (depends on content length)
+
+
 
 
 
