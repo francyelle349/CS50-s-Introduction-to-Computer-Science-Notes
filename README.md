@@ -181,7 +181,26 @@ Links: https://www.hpc.iastate.edu/guides/introduction-to-hpc-clusters/list-of-c
 - Char: 1 byte
 - String: Variable size (depends on content length)
 
+### Strings in memory C
 
+![image](https://github.com/user-attachments/assets/5307420f-71c4-49a7-acce-c69ecf2d009f)
+
+code: 
+- #include <stdio.h>
+- #include <cs50.h>
+
+int main(void){
+
+    string words[2];
+
+    words[0] = "HI!";
+    words[1] = "BYE!";
+
+    printf("%c%c%c\n", words[0][0], words[0][1],words[0][2]);
+    printf("%c%c%c%c \n", words[1][0], words[1][1], words[1][2], words[1][3] );
+
+
+}
 
 
 
