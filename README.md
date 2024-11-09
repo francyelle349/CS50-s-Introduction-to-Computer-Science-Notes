@@ -207,4 +207,7 @@ int main(void){
 ![image](https://github.com/user-attachments/assets/edf9b537-8540-46d4-b28c-b4d17ad96099)
 ![image](https://github.com/user-attachments/assets/4d9360db-572c-4b22-9ddd-aecbbeed7b63)
 
+### Encryption
+
+Encryption is the process of converting information into a secret code, known as cipher text, to prevent unauthorized access. Using algorithms, readable text (plain text) is transformed into an unreadable format, which can only be deciphered by someone with the correct decryption key or method. This ensures that only authorized parties can access the original information.
 
