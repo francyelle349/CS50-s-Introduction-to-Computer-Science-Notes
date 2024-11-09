@@ -202,5 +202,9 @@ int main(void){
 
 }
 
+### CLI fun command 
+
+![image](https://github.com/user-attachments/assets/edf9b537-8540-46d4-b28c-b4d17ad96099)
+![image](https://github.com/user-attachments/assets/4d9360db-572c-4b22-9ddd-aecbbeed7b63)
 
 
