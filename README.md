@@ -211,3 +211,62 @@ int main(void){
 
 Encryption is the process of converting information into a secret code, known as cipher text, to prevent unauthorized access. Using algorithms, readable text (plain text) is transformed into an unreadable format, which can only be deciphered by someone with the correct decryption key or method. This ensures that only authorized parties can access the original information.
 
+
+# Week 3 & 4 (Algorithms and Memory)
+
+## Running time Analysis
+
+## selection sort
+
+- Selection sort PseudoCode
+- For i from 0 to n- 1 Find smallest number between numbers[i] and numbers[n - 1]
+- Swap smallest number with numbers[i]
+
+
+## Linear and Binary Search 
+
+- Binary Search: a search algorithm that starts at the middle of a sorted set of numbers and removes half of the data; this process repeats until the desired value is found or all elements have been eliminated.
+
+ pseudocode:
+ 
+- if 50 is behind middle door
+- return true
+- else if 50 < middle door
+- search left half
+- else if 50 > middle door
+- search right half
+
+## bubble sort
+
+The worst-case running time: O(n log n)
+
+PseudoCode logic: 
+
+- Repeat n times
+- For i from 0 to n -2
+- if numbers[i] and numbers [i+1] out of order
+- swap them
+- If no swaps
+- Quit
+
+
+## merge sort
+
+
+## Big O
+
+Use to describe the worst-case running time.
+
+## Big Theta (Θ)
+
+Use when the running time is the same for all cases
+
+## Big Omega (Ω)
+
+Use to describe the best-case running time
+
+
+
+
+
+
